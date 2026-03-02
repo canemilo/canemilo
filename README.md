@@ -1,4 +1,4 @@
-# Daniel-Garrido-Espartal
+# Daniel Garrido Espartal
 **Estudiante de DAM** · Java (POO) · MySQL · Git/Docker · Automatización (Playwright/TS)
 
 Me estoy construyendo un portfolio con prácticas y mini-proyectos.
