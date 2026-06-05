@@ -1,4 +1,4 @@
-# ¡Hola! Soy Daniel Garrido Espartal 👋
+Daniel Garrido Espartal 
 
 Soy estudiante de DAM (Desarrollo de Aplicaciones Multiplataforma), mi enfoque es 100% práctico: aprendo construyendo.
 
