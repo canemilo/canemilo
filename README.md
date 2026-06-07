@@ -8,7 +8,7 @@ Estudiante de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)
 
 ## Sobre mí
 
-Soy un estudiante de DAM con una filosofía 100% práctica: **aprendo construyendo**. Me apasiona el desarrollo de software y la resolución de problemas complejos. Trabajo constantemente en proyectos que me obligan a salir de mi zona de confort para mejorar mis competencias técnicas y adquirir experiencia real.
+Soy estudiante de DAM. Me interesa el desarrollo de software y la resolución de problemas. Trabajo en proyectos para mejorar mis competencias técnicas y adquirir experiencia real.
 
 
 
